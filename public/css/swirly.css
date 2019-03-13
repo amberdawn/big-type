@@ -1,0 +1,113 @@
+html {
+
+}
+
+*:focus { outline: none; }
+
+body {
+background: url(/backgrounds/ray_bg.png);
+padding: 0;
+margin: 0;
+color: #bd2049;
+}
+
+.type {
+  display: flex;
+  align-items: center;
+  vertical-align: middle;
+  position: absolute;
+  padding: 100px;
+  top:0;
+  right:0;
+  bottom: 0;
+  left:0;
+  color: #ff005f;
+  font-size: 200px;
+  line-height: 200px;
+  font-family: "corner-store-jf";
+}
+
+a {
+   text-decoration: none;
+   color: #EC3461;
+   -webkit-transition-duration: 0.4s;
+   transition-duration: 0.4s;
+}
+
+a:hover {
+  color: #fff;
+
+}
+
+
+.footer {
+   position:fixed;
+   left:0px;
+   bottom: 0px;
+   width: 100%;
+   padding: 10px;
+   font-size: 14px;
+   background-color: #65132b;
+   font-family: "europa";
+}
+
+
+.footer-left {
+  float: left;
+}
+
+.footer-right {
+  float: right;
+}
+
+.typeface {
+  float: left;
+  margin-left: 10px;
+  margin-right: 20px;
+  margin-top: 6px;
+}
+
+.background {
+  float: left;
+  margin-right: 20px;
+  margin-top: 6px;
+}
+
+.button {
+    float: left;
+    background-color: #EC3461;
+    border: none;
+    color: #831938;
+    padding: 4px 6px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 6px;
+    font-weight: 700;
+    margin-left: 20px;
+    margin-top: 3px;
+    margin-right: 30px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+    background-color: #fff;
+    color: #EC3461;
+    border: none;
+}
+
+
+.ss-icon {
+  font-size: 12px;
+  padding-right: 1px;
+}
+
+.ss-social-regular {
+  font-size: 22px;
+}
+.twitter {
+    float: left;
+    margin-top: 4px;
+}
