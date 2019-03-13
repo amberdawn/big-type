@@ -19,9 +19,9 @@ let body = `
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <script src="https://use.typekit.net/iay6fpi.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
-<link type="text/css" rel="stylesheet" href="/swirly.css">
-<link href="webfonts/ss-social-regular.css" rel="stylesheet" />
-<link href="webfonts/ss-standard.css" rel="stylesheet" />
+<link type="text/css" rel="stylesheet" href="/css/swirly.css">
+<link href="/webfonts/ss-social-regular.css" rel="stylesheet" />
+<link href="/webfonts/ss-standard.css" rel="stylesheet" />
 
 <script language="JavaScript">
 
@@ -51,7 +51,6 @@ location = links[i]
 </head>
 
 <body>
-<div cl
   <div class="type">
 I like big type &amp; I cannot lie.
 </div>
