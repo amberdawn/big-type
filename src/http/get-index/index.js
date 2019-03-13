@@ -19,7 +19,7 @@ let body = `
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <script src="https://use.typekit.net/iay6fpi.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
-<link type="text/css" rel="stylesheet" href="/css/swirly.css">
+<link type="text/css" rel="stylesheet" href="public/css/swirly.css">
 <link href="/webfonts/ss-social-regular.css" rel="stylesheet" />
 <link href="/webfonts/ss-standard.css" rel="stylesheet" />
 
